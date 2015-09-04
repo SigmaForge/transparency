@@ -1,6 +1,5 @@
 # Code of Conduct and Ethics
 
-Note: this should be on github, signatures should be versioned.
 Note: Look at twitter’s code of conduct, Pycon’s anti-harrasment policy
 Q: How can we be more compassionate?
 
