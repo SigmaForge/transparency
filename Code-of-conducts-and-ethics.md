@@ -1,5 +1,7 @@
 # Code of Conduct and Ethics
 
+---
+
 Note: Look at twitter’s code of conduct, Pycon’s anti-harrasment policy
 Q: How can we be more compassionate?
 
