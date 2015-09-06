@@ -68,7 +68,7 @@ We understand that being professional does not mean having to forego the persona
 
 ## 4 - DISCRIMINATION AND HARRASMENT
 
-Sigma Forge is dedicated to providing a harassment-free work environmentfor everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of staff in any form.
+Sigma Forge is dedicated to providing a harassment-free work environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of staff in any form.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
 
