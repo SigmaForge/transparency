@@ -41,17 +41,21 @@ We agree to use company resources in the following three ways:
 
 Using company resources for another reason is against the spirit of this code of conduct. 
 
+Anything done or stored with Sigma Forge's electronic facilities by an employe should be considered potentially public information, and written or created with this in mind. 
+
 ## 2 - AVOIDING CONFLICTS OF INTERESTS
 
 Conflicts of interests occur when the best interests of ourselves, our friends, our family, our customers, Sigma Forge or the public compete with each other.
 
-We try to avoid conflicts of interest and circumstances that present the appearance of a conflict of interest.
+We avoid conflicts of interest and circumstances that present the appearance of a conflict of interest.
 
 When faced with a potential conflict of interest, we ask ourselves:
 
-* Would this situation create an incentive for us to act to the detriment of Sigma Forge, our customers or the public?
+* Would this situation create an incentive, or the appearance of one, for us to act to the detriment of Sigma Forge, our customers or the public?
 * Could this activity harm our reputation for honesty and integrity, hinder our ability to make a positive contribution or potentially harm Sigma Forge?
-* Would this situation embarrass us or Sigma Forge if it showed on a public media, such as Twitter or a newspaper?
+* Would this situation embarrass us or Szigma Forge if revealed on a public media, such as Twitter or a newspaper?
+
+If any of the above can be answered with 'yes', then a situation is likely a conflict of interest.
 
 It is sometimes difficult to determine if a conflict of interest exists. In case of doubt, the director can be contacted directly for advice at director@sigmaforge.com.
 
@@ -105,7 +109,7 @@ We understand that our actions represent our peers at all time, and act accordin
 
 We are never afraid to offer a helping hand, and embrace getting our hands dirty. We know that no work worth doing is demeaning, and that all work is a way of contributing to our surroundings. We know that the manner in which we act and the quality of our work is a reflection of our selves and our values.
 
-We are all representatives of Sigma Forge, and as such, we may use our judgement to make direct statements to the public on behalf of the company. We understand that this is a precious responsibility not to be taken lightly, and that all communication on behalf of Sigma Forge should follow the letter and the intent of this code of conduct. There is no corporate communication office. We are all responsible for aligning what we say to the public with our peers and our actions, and of getting advice from our peers in case of doubt or uncertainty.
+We are all representatives of Sigma Forge, and as such, we may use our judgement to make direct statements to the public on behalf of the company. We understand that this is a precious responsibility and trust not to be taken lightly, and that all communication on behalf of Sigma Forge should follow the letter and the intent of this code of conduct. There is no corporate communication office. We are all responsible for aligning what we say to the public with our peers and our actions, and of getting advice from our peers in case of doubt or uncertainty.
 
 ## 7 - ACCOUNTABILITY
 
