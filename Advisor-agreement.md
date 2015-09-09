@@ -58,8 +58,18 @@ You should also be sensitive to information in the report that could identify th
 
 If in doubt as to your course of action, your duty is first to the reporter, second to other employees of Sigma Forge, third to members of the public and other companies, and lastly to Sigma Forge itself and its leadership.
 
+## Acting as first line mediator
+
+You may be called upon to act as a first line mediator between the Sigma Forge leadership and an employee should an employee have a grievance or complaint about the leadership of the company. 
+
+It will be your duty to remain impartial and attempt to find a positive resolution to the conflict for all parties. If for any reason you are unable to remain impartial and neutral or are put in a position of conflicting interests, you will declare this explicitly and step down as a mediator. You may help by suggesting an alternative party to act as mediator instead.
+
+All your actions as mediator will be strictly confidential.
+
+If you do not believe mediation can be successful, you may refer the Company and employee to an alternative mediator or abitrator, in which case Sigma Forge agrees to comply with your recommendations.
+
 ## Responsibilities of Sigma Forge toward you
-Sigma Forge agrees to pay all reasonable expenses related to your duties as an advisor in a prompt manner. Every attempt will be made to accomodate your schedule for advisory board meetings. 
+Sigma Forge agrees to pay all reasonable expenses related to your duties as an advisor or mediator in a prompt manner. Every attempt will be made to accomodate your schedule for advisory board meetings. 
 
 Your privacy is taken seriously, and Sigma Forge will take all due care and precaution with any private and confidential information you disclose while acting as an advisor. 
 
