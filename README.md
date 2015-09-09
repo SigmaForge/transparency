@@ -1,7 +1,7 @@
 Open Documents
 ==============
 
-As part of our commitment to radical openness and honetsy, we make many of the documents that guide our actions and govern [Sigma Forge](http://sigamforge.com) publicly available. 
+As part of our commitment to radical openness and honesty, we make many of the documents that guide our actions and govern [Sigma Forge](http://sigamforge.com) publicly available. 
 
 This repository contains all the important governance document for Sigma Forge. We welcome suggestions for change either as a pull requests, or by email at transparency@sigmaforge.com.
 
