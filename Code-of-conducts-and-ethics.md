@@ -53,7 +53,7 @@ When faced with a potential conflict of interest, we ask ourselves:
 
 * Would this situation create an incentive, or the appearance of one, for us to act to the detriment of Sigma Forge, our customers or the public?
 * Could this activity harm our reputation for honesty and integrity, hinder our ability to make a positive contribution or potentially harm Sigma Forge?
-* Would this situation embarrass us or Szigma Forge if revealed on a public media, such as Twitter or a newspaper?
+* Would this situation embarrass us or Sigma Forge if revealed on a public media, such as Twitter or a newspaper?
 
 If any of the above can be answered with 'yes', then a situation is likely a conflict of interest.
 
@@ -65,11 +65,11 @@ If we are aware of an actual or potential conflict of interest, they should be r
 
 We respect our customers, partners and competitors. We do not think or speak ill of them. 
 
-We value our competition as our greatest ally and truest friends in our quest to better our selves and make a positive contribution.
+We value our competition as our greatest ally and truest friends in our quest to better ourselves and make a positive contribution.
 
-We know that acting in our customer's best interest is the best choice for Sigma Forge, even if it means leading our customers away from our products to offerings better suited for their need today.
+We know that acting in our customer's best interest is the best choice for Sigma Forge, even if it means leading our customers away from our products to offerings better suited to their needs.
 
-We assume good intentions unless proven otherwise. When choosing our actions during conflict or doubt, we err to the side of the customer or the most disadvantaged party. 
+We assume good intentions unless proven otherwise. When choosing our actions during conflict or doubt, we err on the side of the customer or the most disadvantaged party. 
 
 When dealing with our customers and partners, we commit to listening to them and to excercise our empathy and compassion. We sublimate our ego when it is most difficult to do so, to remain professional and courteous in order to find positive outcomes for all.
 
@@ -89,35 +89,35 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Be kind to others. Do not insult or put down other members of staff or the wider community. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes can be offensive to those around you and are not appropriate in the workplace.
 
-We encourage an open, friendly and postive work environment with a strong team spirit where employees feel motivated and happy.
+We encourage an open, friendly and positive work environment with a strong team spirit where employees feel motivated and happy.
 
 ## 5 - DUTY TO CARE
 
 We have a duty to care about our work and its effect on the world. 
 
-We are all personally responsible for the products that are created by Sigma Forge, and every one of us has a duty to ensure that all our products and our customers' experience are of the highest quality and that what we create has a positive impact on the world. 
+We are all personally responsible for the products that are created by Sigma Forge. Every one of us has a duty to ensure that all of our products and our customers' experience are of the highest quality, and that what we create has a positive impact on the world. 
 
-Every member of Sigma Forge has the authority to stop any product from reaching the customer, or of intervening in the customer experience if either do not meet the highest standard of quality. 
+Every member of Sigma Forge has the authority to stop any product from reaching the customer, or to intervene in the customer experience, if either do not meet the highest standard of quality. 
 
-We believe that the words “It’s someone else’s problem” are toxic to our organisation. **We are all personally responsible for the success of this company and for its impact on the world.**
+We believe that the phrase “it’s someone else’s problem” is toxic to our organisation. **We are all personally responsible for the success of this company and for its impact on the world.**
 
-Our duty to care extends beyond our work and to the people we interact with as part of our business and our lives. We create a welcoming and safe environment for our peers and our customers, and are compelled to act when we notice we do not meet these expectations. 
+Our duty to care extends beyond our work and to the people we interact with as part of our business and our lives. We create a welcoming and safe environment for our peers and our customers and are compelled to act if and when we notice that we are not meeting these expectations. 
 
 ## 6 - REPRESENTING OUR PEERS
 
-We understand that our actions represent our peers at all time, and act accordingly. When in the community, we are good citizens, and respect our surroundings and environment to create goodwill on behalf of our peers. 
+We understand that our actions represent our peers at all time, and act accordingly. When in the community, we are good citizens and respect our surroundings and environment to create goodwill on behalf of our peers. 
 
-We are never afraid to offer a helping hand, and embrace getting our hands dirty. We know that no work worth doing is demeaning, and that all work is a way of contributing to our surroundings. We know that the manner in which we act and the quality of our work is a reflection of our selves and our values.
+We are never afraid to offer a helping hand and embrace getting our hands dirty. We know that no work worth doing is demeaning and that all work is a way of contributing to our surroundings. We know that the manner in which we act and the quality of our work is a reflection of ourselves and of our values.
 
-We are all representatives of Sigma Forge, and as such, we may use our judgement to make direct statements to the public on behalf of the company. We understand that this is a precious responsibility and trust not to be taken lightly, and that all communication on behalf of Sigma Forge should follow the letter and the intent of this code of conduct. There is no corporate communication office. We are all responsible for aligning what we say to the public with our peers and our actions, and of getting advice from our peers in case of doubt or uncertainty.
+We are all representatives of Sigma Forge and, as such, we may use our judgement to make direct statements to the public on behalf of the company. We understand that this is a precious responsibility not to be taken lightly, and that all communication on behalf of Sigma Forge should follow the letter and the intent of this code of conduct. There is no corporate communication office. We are all responsible for aligning what we say to the public with our peers and in our actions, and for getting advice from our peers in case of doubt or uncertainty.
 
 ## 7 - ACCOUNTABILITY
 
-We nurture each other and help each other grow. We hold ourselves and each other accountable to this code of conduct, and have a duty to report any breaches. Breaches can be reported directly to the director of the company at director@sigmaforge.com. 
+We nurture each other and help each other grow. We hold ourselves and each other accountable to this code of conduct and have a duty to report any breaches. Breaches can be reported directly to the director of the company at director@sigmaforge.com. 
 
 If the director falls short of this code of conduct, or for any other reason a report cannot be made to them directly, breaches can be reported instead to our company ethical advisor at ethics@sigmaforge.com. 
 
-We take our commitment to ethical conduct seriously, and we investigate and act upon all reported breaches of this code of conduct. 
+We take our commitment to ethical conduct seriously and we investigate and act upon all reported breaches of this code of conduct. 
 
 We will not retaliate in any way against anyone who reports a breach of this code of conduct. We are thankful that they care and value the growth that their action enables.
 
