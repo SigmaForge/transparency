@@ -3,6 +3,12 @@
 
 }
 
+body {
+    -moz-transform: scale(0.6, 0.6); /* Moz-browsers */
+    zoom: 0.6; /* Other non-webkit browsers */
+    zoom: 60%; /* Webkit browsers */
+}
+
 .courses {
 	margin-bottom: 50px;
 	width: 3000px;
@@ -61,6 +67,12 @@
 .section .notStarted{ background-color: #666 }
 .section .production{ background-color: #FC5B48 }
 .section .beta{ background-color: #0000D0 }
+
+.course.released{ background-color: #EFD }
+.course.notStarted{ background-color: #eee }
+.course.production{ background-color: #FED }
+.course.beta{ background-color: #DEF}
+
 
 /**
 notStarted: 666; HIGHLIGHT: D4D4D4;
