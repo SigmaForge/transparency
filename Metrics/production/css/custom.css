@@ -1,0 +1,77 @@
+.main {
+	margin-left: 30px;
+
+}
+
+.courses {
+	margin-bottom: 50px;
+	width: 3000px;
+
+
+}
+
+.course {
+	float: left;
+	border: 2px solid black;
+	margin-right: 6px;
+	padding: 12px;
+	width: 300px;
+
+}
+
+.section {
+	padding: 6px;
+	margin-top: 6px;
+	margin-bottom: 12px;
+}
+
+.video {
+	margin-top: 6px;
+	margin-bottom: 12px;
+
+}
+
+.notStarted {
+	background-color: #D4D4D4;
+	border: 2px solid #666;
+}
+
+.production {
+	background-color: #FCB7AC;
+	border: 2px solid #FC5B48;
+}
+
+.beta {
+	background-color: #9FA1D0;
+	border: 2px solid #0000D0;
+}
+
+.released {
+	background-color: #C3FFC4;
+	border: 2px solid #039B0F;
+}
+
+.section div {
+	padding: 2px;
+	margin: 6px;
+	color: white;
+}
+
+.section .released{ background-color: #039B0F }
+.section .notStarted{ background-color: #666 }
+.section .production{ background-color: #FC5B48 }
+.section .beta{ background-color: #0000D0 }
+
+/**
+notStarted: 666; HIGHLIGHT: D4D4D4;
+production: FC5B48; HIGHLIGHT: FCB7AC;
+beta: 0000D0; HIGHLIGHT: 9FA1D0;
+released: 039B0F; HIGHLIGHT C3FFC4
+
+RED: C9000A; HIGHLIGHT: FF9C9B;
+
+HIGHLIGHTED
+notStarted: ;
+production: ;
+beta: ;
+released: 039B0F;
