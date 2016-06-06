@@ -41,7 +41,7 @@ We agree to use company resources in the following three ways:
 
 Using company resources for another reason is against the spirit of this code of conduct. 
 
-Anything done or stored with Sigma Forge's electronic facilities by an employe should be considered potentially public information, and written or created with this in mind. 
+Anything done or stored with Sigma Forge's electronic facilities by an employee should be considered potentially public information, and written or created with this in mind. 
 
 ## 2 - AVOIDING CONFLICTS OF INTERESTS
 
